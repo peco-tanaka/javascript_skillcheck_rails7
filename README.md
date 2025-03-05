@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+render Internal Database URL
+postgresql://ajaxapp_production_zwpf_user:rrAGBHjEAQPWwVo6zfCuhQaphcS0LHOi@dpg-cv3tls1u0jms73eddpug-a/ajaxapp_production_zwpf
